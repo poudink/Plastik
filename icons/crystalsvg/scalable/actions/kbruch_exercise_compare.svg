@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+"http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   id="svg1"
+   sodipodi:version="0.32"
+   inkscape:version="0.38.1"
+   width="16.000000pt"
+   height="16.000000pt"
+   sodipodi:docbase="/home/sstein/programmierung/cvs/kde/kdeedu/kbruch/src/svg-source"
+   sodipodi:docname="cr-action-kbruch-exercise-compare.svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xml="http://www.w3.org/XML/1998/namespace"
+   xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs
+     id="defs3">
+    <linearGradient
+       id="linearGradient868">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.0000000;"
+         offset="0.0000000"
+         id="stop869" />
+      <stop
+         style="stop-color:#fff;stop-opacity:1;"
+         offset="1"
+         id="stop870" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient893">
+      <stop
+         style="stop-color:#19839a;stop-opacity:0.0000000;"
+         offset="0.0000000"
+         id="stop894" />
+      <stop
+         style="stop-color:#fff;stop-opacity:1;"
+         offset="1"
+         id="stop895" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient830">
+      <stop
+         style="stop-color:#ebffff;stop-opacity:0.0000000;"
+         offset="0.0000000"
+         id="stop831" />
+      <stop
+         style="stop-color:#fff;stop-opacity:1;"
+         offset="1"
+         id="stop832" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient826">
+      <stop
+         style="stop-color:#000;stop-opacity:1;"
+         offset="0"
+         id="stop827" />
+      <stop
+         style="stop-color:#fff;stop-opacity:1;"
+         offset="1"
+         id="stop828" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient830"
+       id="linearGradient829" />
+    <linearGradient
+       xlink:href="#linearGradient830"
+       id="linearGradient834"
+       x1="-0.31159419"
+       y1="0.19531250"
+       x2="0.77536231"
+       y2="0.94531250" />
+    <linearGradient
+       xlink:href="#linearGradient830"
+       id="linearGradient836" />
+    <linearGradient
+       xlink:href="#linearGradient868"
+       id="linearGradient892"
+       x1="-0.49264705"
+       y1="0.43750000"
+       x2="0.022058824"
+       y2="0.92187500" />
+    <radialGradient
+       xlink:href="#linearGradient830"
+       id="radialGradient869"
+       cx="0.50000000"
+       cy="0.50000000"
+       r="0.50000000"
+       fx="0.50000000"
+       fy="0.50000000"
+       spreadMethod="reflect" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="24.280000"
+     inkscape:cx="12.500000"
+     inkscape:cy="5.9102142"
+     inkscape:window-width="1017"
+     inkscape:window-height="731"
+     gridspacingy="1.0000000pt"
+     gridspacingx="1.0000000pt"
+     gridtolerance="1.0000000px"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     showgrid="true" />
+  <text
+     xml:space="preserve"
+     style="fill:#00ff00;fill-opacity:1.0000000;stroke:none;font-family:Verdana;font-style:normal;font-weight:normal;font-size:10.000000;font-stretch:normal;font-variant:normal;text-anchor:start;writing-mode:lr;stroke-opacity:1;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt;"
+     x="0.097586758"
+     y="19.209157"
+     id="text850"
+     sodipodi:linespacing="100%"><tspan
+       id="tspan851"
+       style="fill:#00ff00;fill-opacity:1.0000000;">7</tspan></text>
+  <text
+     xml:space="preserve"
+     style="fill:#ff7700;fill-opacity:1.0000000;stroke:none;font-family:Verdana;font-style:normal;font-weight:normal;font-size:10.000000;font-stretch:normal;font-variant:normal;text-anchor:start;writing-mode:lr;stroke-opacity:1;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt;"
+     x="13.697060"
+     y="19.360525"
+     id="text856"
+     sodipodi:linespacing="100%"><tspan
+       id="tspan857"
+       style="fill:#ff7700;fill-opacity:1.0000000;">3</tspan></text>
+  <text
+     xml:space="preserve"
+     style="fill:#ff009e;fill-opacity:1.0000000;stroke:none;font-family:Verdana;font-style:normal;font-weight:normal;font-size:10.000000;font-stretch:normal;font-variant:normal;text-anchor:start;writing-mode:lr;stroke-opacity:1.0000000;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt;"
+     x="5.8638921"
+     y="13.346795"
+     id="text865"
+     sodipodi:linespacing="100%"><tspan
+       x="5.8638921"
+       y="13.346795"
+       sodipodi:role="line"
+       id="tspan863">&lt;</tspan></text>
+  <text
+     xml:space="preserve"
+     style="fill:#ff0000;fill-opacity:1.0000000;stroke:none;font-family:Verdana;font-style:normal;font-weight:normal;font-size:10.000000;font-stretch:normal;font-variant:normal;text-anchor:start;writing-mode:lr;stroke-opacity:1;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt;"
+     x="0.063407071"
+     y="8.3877524"
+     id="text855"
+     sodipodi:linespacing="100%"><tspan
+       id="tspan848"
+       style="fill:#ff0000;fill-opacity:1.0000000;">2</tspan></text>
+  <text
+     xml:space="preserve"
+     style="fill:#ff0072;fill-opacity:1.0000000;stroke:none;font-family:Verdana;font-style:normal;font-weight:normal;font-size:10.000000;font-stretch:normal;font-variant:normal;text-anchor:start;writing-mode:lr;stroke-opacity:1;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt;"
+     x="13.653116"
+     y="8.2363851"
+     id="text853"
+     sodipodi:linespacing="100%"><tspan
+       id="tspan854"
+       style="fill:#ff0072;fill-opacity:1.0000000;">5</tspan></text>
+  <rect
+     style="fill-rule:evenodd;stroke:#0000ff;stroke-width:0.62263856pt;fill:#0000ff;fill-opacity:1.0000000;stroke-opacity:1.0000000;"
+     id="rect868"
+     width="4.1720033"
+     height="0.40835696"
+     x="1.2302562"
+     y="9.9590223" />
+  <rect
+     style="fill-rule:evenodd;stroke:#00ffff;stroke-width:0.62263856pt;stroke-opacity:1.0000000;"
+     id="rect871"
+     width="4.1720033"
+     height="0.40835696"
+     x="14.771190"
+     y="9.9590228" />
+</svg>
