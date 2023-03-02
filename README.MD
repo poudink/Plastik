@@ -18,7 +18,7 @@ Note: Icons often appear black in Kirigami apps. This is a KDE bug, so there's n
 * Improve widget coverage.
 * Make it properly adapt to different color schemes and fix dark color schemes.
 ### Miscellaneous
-* Make the Global Theme no suck.
+* Make the Global Theme not suck.
 * Port Plastik to GTK2, GTK3 and GTK4.
 * Port the default KDE3.5 KDM theme to SDDM.
 * Port the default KDE3.5 Splash Screen to QML.
@@ -30,7 +30,11 @@ I consider the creation of a widget style to be outside the scope of this port. 
 * The qt5-styleplugins package, if you're on Arch or Void.
 * Qt6 port of styleplugins: https://github.com/MartinF99/qtstyleplugins
 ## Credits
+* cmdrk: Creating the Vintage Plasma Style, which I used as a base.
 * Everaldo Coelho: Creating the Crystal icon themes.
-* MartinF99: Porting the Plastik color scheme to Plasma 5 and creating a partial port of CrystalSVG to Plasma 5.
+* maarizwan: Creating the QtCurve-Hardy Plasma Style, which I used as a base.
+* MartinF99: Creating a partial port of CrystalSVG to Plasma 5.
+* nferenc: Creating the Klassik Plasma Style, which I used as a base.
 * The KDE3 developers: Creating the theme I'm porting.
 * The Trinity developers: Maintaining and expanding the CrystalSVG icon theme.
+* USRKL: Porting the Plastik color scheme to Plasma. This port is currently used as-is.
