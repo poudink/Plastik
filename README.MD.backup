@@ -1,6 +1,6 @@
 # Plastik Style
 ![image](./screenshot.png)
-A Plasma 5 port of the Plastik theme, used by default for KDE3.4 and KDE3.5. Also contains a port of the CrystalSVG icon theme used from KDE3.1 to KDE3.5, as well as a remake of Kicker's default look for the Plasma panel. This is meant to be used alongside the "KDE Classic" cursors and the "Plastik" window decorations included in Plasma by default.
+A Plasma 5 port of the Plastik theme, used for KDE3.4 and KDE3.5. Also contains a port of the CrystalSVG icon theme used from KDE3.1 to KDE3.5, as well as a remake of Kicker's default look for the Plasma panel. This is meant to be used alongside the "KDE Classic" cursors and the "Plastik" window decorations included in Plasma by default.
 ## TODO
 ### CrystalSVG
 * Get rid of useless remnants from the KDE3 era. There are a tons of these.
