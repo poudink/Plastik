@@ -1,26 +1,6 @@
 # Plastik Style
 ![image](./screenshot.png)
-A Plasma 5 port of the Plastik theme, used for KDE3.4 and KDE3.5. Also contains a port of the CrystalSVG icon theme used from KDE3.1 to KDE3.5, as well as a remake of Kicker's default look for the Plasma panel. This is meant to be used alongside the "KDE Classic" cursors and the "Plastik" window decorations included in Plasma by default.
-## TODO
-### CrystalSVG
-* Get rid of useless remnants from the KDE3 era. There are a tons of these.
-* GNOME applications are missing many icons.
-* Inkscape is missing many icons.
-* Most window actions (minimize, maximize, etc.) are missing.
-* Inherit Oxygen to make missing icons less jarring. Waiting until the last minute to do this, because the more jarring the missing icons are, the easier they are to find and fix.
-* Run a PNG optimizer on the whole thing.
-
-CrystalSVG and its successors don't have every icon a 2023 icon theme needs, so unless I can somehow be bothered to try designing brand new icons, complete coverage is impossible, but we can get very close.
-### Plasma Style
-* Improve tray icon coverage.
-* Improve widget coverage.
-* Make it properly adapt to different color schemes and fix dark color schemes.
-### Miscellaneous
-* Make the Global Theme not suck.
-* Port Plastik to GTK2, GTK3 and GTK4.
-* Port the default KDE3.5 KDM theme to SDDM.
-* Port the default KDE3.5 Splash Screen to QML.
-* Once all of the above is done, begin Keramik port.
+A Plasma 5 port of the Plastik theme, used by default for KDE3.4 and KDE3.5. Also contains a port of the CrystalSVG icon theme used from KDE3.1 to KDE3.5, as well as a remake of Kicker's default look for the Plasma panel. This is meant to be used alongside the "KDE Classic" cursors and the "Plastik" window decorations included in Plasma by default.
 ## Application Style
 I consider the creation of a widget style to be outside the scope of this port. This is mainly because KDE has never officially adopted a proper theme engine for widgets, making them impossible to properly distribute through the KDE Store. However, other people have already done the work to port the Plastik widget style to Qt5, so I suggest you check them out:
 * QtCurve: https://invent.kde.org/system/qtcurve/-/blob/master/qt4/themes/Plastic.qtcurve
@@ -35,4 +15,4 @@ I consider the creation of a widget style to be outside the scope of this port. 
 * nferenc: Creating the Klassik Plasma Style, which I used as a base.
 * The KDE3 developers: Creating the theme I'm porting.
 * The Trinity developers: Maintaining and expanding the CrystalSVG icon theme.
-* USRKL: Porting the Plastik color scheme to Plasma. This port is currently used as-is.
+* usrkl: Porting the Plastik color scheme to Plasma. This port is currently used as-is.
