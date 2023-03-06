@@ -2,7 +2,7 @@
 ![image](./screenshot.png)
 A Plasma 5 port of the Plastik theme, used by default for KDE3.4 and KDE3.5. Also contains a port of the CrystalSVG icon theme used from KDE3.1 to KDE3.5, as well as a remake of Kicker's default look for the Plasma panel. This is meant to be used alongside the "KDE Classic" cursors and the "Plastik" window decorations included in Plasma by default.
 ## Installation
-Place the "color-schemes", "icons" and "plasma" to $HOME/.local/share/ (or $XDG_DATA_HOME).
+Place the "color-schemes", "icons" and "plasma" folders in $HOME/.local/share/ (or $XDG_DATA_HOME).
 ```
 git clone https://github.com/poudink/Plastik.git  
 cd Plastik
