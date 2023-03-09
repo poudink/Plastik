@@ -131,7 +131,7 @@ SmallDefault=16
 SmallSizes=16
 PanelDefault=32
 PanelSizes=16,22,32,48,64,128
-Directories=11x11/actions,11x11/emblems,16x16/actions,16x16/animations,16x16/apps,16x16/categories,16x16/devices,16x16/emblems,16x16/mimetypes,16x16/places,16x16/status,22x22/actions,22x22/apps,22x22/categories,22x22/devices,22x22/emblems,22x22/emotes,22x22/mimetypes,22x22/places,22x22/status,24x24/actions,24x24/apps,24x24/status,32x32/actions,32x32/apps,32x32/categories,32x32/devices,32x32/emblems,32x32/mimetypes,32x32/places,32x32/status,48x48/actions,48x48/apps,48x48/categories,48x48/devices,48x48/emblems,48x48/mimetypes,48x48/places,48x48/status,64x64/actions,64x64/apps,64x64/categories,64x64/devices,64x64/emblems,64x64/mimetypes,64x64/places,64x64/status,128x128/actions,128x128/apps,128x128/categories,128x128/devices,128x128/emblems,128x128/mimetypes,128x128/places,128x128/status,256x256/apps,scalable/actions,scalable/apps,scalable/categories,scalable/devices,scalable/emblems,scalable/mimetypes,scalable/places,scalable/status
+Directories=11x11/actions,11x11/emblems,16x16/actions,16x16/animations,16x16/apps,16x16/categories,16x16/devices,16x16/emblems,16x16/mimetypes,16x16/places,16x16/preferences,16x16/status,22x22/actions,22x22/apps,22x22/categories,22x22/devices,22x22/emblems,22x22/emotes,22x22/mimetypes,22x22/places,22x22/preferences,22x22/status,24x24/actions,24x24/apps,24x24/preferences,24x24/status,32x32/actions,32x32/apps,32x32/categories,32x32/devices,32x32/emblems,32x32/mimetypes,32x32/places,32x32/preferences,32x32/status,48x48/actions,48x48/apps,48x48/categories,48x48/devices,48x48/emblems,48x48/mimetypes,48x48/places,48x48/preferences,48x48/status,64x64/actions,64x64/apps,64x64/categories,64x64/devices,64x64/emblems,64x64/mimetypes,64x64/places,64x64/preferences,64x64/status,128x128/actions,128x128/apps,128x128/categories,128x128/devices,128x128/emblems,128x128/mimetypes,128x128/places,128x128/preferences,128x128/status,256x256/apps,256x256/preferences,scalable/actions,scalable/apps,scalable/categories,scalable/devices,scalable/emblems,scalable/mimetypes,scalable/places,scalable/preferences,scalable/status
 
 [11x11/actions]
 Size=11
@@ -174,6 +174,10 @@ Type=Threshold
 Size=16
 Context=Places
 Type=Threshold
+[16x16/preferences]
+Size=16
+Context=Applications
+Type=Threshold
 [16x16/status]
 Size=16
 Context=Status
@@ -211,6 +215,10 @@ Type=Threshold
 Size=22
 Context=Places
 Type=Threshold
+[22x22/preferences]
+Size=22
+Context=Applications
+Type=Threshold
 [22x22/status]
 Size=22
 Context=Status
@@ -221,6 +229,10 @@ Size=24
 Context=Actions
 Type=Threshold
 [24x24/apps]
+Size=24
+Context=Applications
+Type=Threshold
+[24x24/preferences]
 Size=24
 Context=Applications
 Type=Threshold
@@ -257,6 +269,10 @@ Type=Threshold
 Size=32
 Context=Places
 Type=Threshold
+[32x32/preferences]
+Size=32
+Context=Applications
+Type=Threshold
 [32x32/status]
 Size=32
 Context=Status
@@ -289,6 +305,10 @@ Type=Threshold
 [48x48/places]
 Size=48
 Context=Places
+Type=Threshold
+[48x48/preferences]
+Size=48
+Context=Applications
 Type=Threshold
 [48x48/status]
 Size=48
@@ -323,6 +343,10 @@ Type=Threshold
 Size=64
 Context=Places
 Type=Threshold
+[64x64/preferences]
+Size=64
+Context=Applications
+Type=Threshold
 [64x64/status]
 Size=64
 Context=Status
@@ -356,6 +380,10 @@ Type=Threshold
 Size=128
 Context=Places
 Type=Threshold
+[128x128/preferences]
+Size=128
+Context=Applications
+Type=Threshold
 [128x128/status]
 Size=128
 Context=Status
@@ -366,6 +394,10 @@ Size=256
 Context=Actions
 Type=Threshold
 [256x256/apps]
+Size=256
+Context=Applications
+Type=Threshold
+[256x256/preferences]
 Size=256
 Context=Applications
 Type=Threshold
@@ -408,6 +440,12 @@ Size=128
 MaxSize=256
 [scalable/places]
 Context=Places
+Type=Scalable
+MinSize=1
+Size=128
+MaxSize=256
+[scalable/preferences]
+Context=Applications
 Type=Scalable
 MinSize=1
 Size=128
