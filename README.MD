@@ -15,11 +15,11 @@ I consider the creation of a widget style to be outside the scope of this port. 
 * The qt5-styleplugins package, if you're on Arch or Void.
 * Qt6 port of styleplugins: https://github.com/MartinF99/qtstyleplugins
 ## Credits
-* cmdrk: Creating the Vintage Plasma Style, which I used as a base for.
+* cmdrk: Creating the Vintage Plasma Style, which I used as a base.
 * Everaldo Coelho: Creating the Crystal icon themes.
 * KDE3's developers: Creating the theme I'm porting.
 * maarizwan: Creating the QtCurve-Hardy Plasma Style, which I used as a base.
 * MartinF99: Creating a partial port of CrystalSVG to Plasma 5.
 * nferenc: Creating the Klassik Plasma Style, which I used as a base.
 * Trinity's developers: Maintaining and expanding the CrystalSVG icon theme.
-* usrkl: Porting the Plastik color scheme to Plasma. This port is currently used as-is.
+* usrkl: Porting the Plastik color scheme to Plasma.

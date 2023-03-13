@@ -89,6 +89,32 @@ ForegroundVisited=82,24,139
 
 [General]
 Name=Plastik
+Name[af]=Plastiek
+Name[be]=Пластыка
+Name[bn]=প্লাস্টিক
+Name[fa]=پلاستیک
+Name[he]=פלסטיק
+Name[hi]=प्लास्टिक
+Name[is]=Plast
+Name[ka]=პლასტიკი
+Name[kk]=Пластик
+Name[lt]=Plastikinis
+Name[lv]=Plastika
+Name[mk]=Пластик
+Name[nb]=Plastikk
+Name[ne]=प्लास्टिक
+Name[nn]=Plastikk
+Name[pa]=ਪਲਾਸਟਿਕ
+Name[ru]=Пластик
+Name[sr]=Пластика
+Name[sr@Latn]=Plastika
+Name[ta]=ப்ளாஸ்டிக்
+Name[te]=ప్లాస్టిక్
+Name[tg]=Пластик
+Name[th]=พลาสติคK
+Name[uk]=Пластик
+Name[uz@cyrillic]=Пластик
+Name[zh_CN]=塑料
 shadeSortColumn=true
 
 [KDE]
