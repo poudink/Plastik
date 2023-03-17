@@ -91,14 +91,22 @@ SmallDefault=16
 SmallSizes=16
 PanelDefault=32
 PanelSizes=16,22,32,48,64,128
-Directories=16x16/actions,22x22/actions,32x32/actions,48x48/actions
+Directories=16x16/actions,16x16/actions/symbolic,22x22/actions,22x22/actions/symbolic,32x32/actions,48x48/actions
 
 [16x16/actions]
 Size=16
 Context=Actions
 Type=Threshold
+[16x16/actions/symbolic]
+Size=16
+Context=Actions
+Type=Threshold
 
 [22x22/actions]
+Size=22
+Context=Actions
+Type=Threshold
+[22x22/actions/symbolic]
 Size=22
 Context=Actions
 Type=Threshold
