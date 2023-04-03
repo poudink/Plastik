@@ -1,3 +1,3 @@
 #!/bin/sh
 cd ../icons/
-symlinks -c -r *
+find -type l -exec ln -f -r -s $(realpath {}) {} \;
