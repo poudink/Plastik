@@ -115,7 +115,7 @@ Comment[zh_HK]=由 Everaldo.com 提供的圖示主題
 Comment[zh_TW]=由 Everaldo.com 設計團隊設計的圖示主題
 DisplayDepth=32
 
-Inherits=oxygen,hicolor,breeze,Adwaita
+Inherits=oxygen,hicolor,breeze
 
 Example=folder
 LinkOverlay=link_overlay
