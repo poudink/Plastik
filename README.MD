@@ -13,7 +13,6 @@ I consider the creation of a widget style to be outside the scope of this port. 
 * QtCurve: https://invent.kde.org/system/qtcurve/-/blob/master/qt4/themes/Plastic.qtcurve
 * QStyle (both Qt5 and Qt6): https://github.com/MartinF99/PlastikStyle
 * The qt5-styleplugins package, if you're on Arch or Void.
-* Qt6 port of styleplugins: https://github.com/MartinF99/qtstyleplugins
 ## Credits
 * cmdrk: Creating the Vintage Plasma Style, which I used as a base.
 * Everaldo Coelho: Creating the Crystal icon themes.
